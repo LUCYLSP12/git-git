@@ -3,5 +3,13 @@
 }
 
 footer{
+    display: flex;
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    justify-content: center;
+    color: white;
     background-color: black
+    
+    
 }
